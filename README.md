@@ -35,3 +35,7 @@ The goal of the Zomato Analysis project was to gain insights into the restaurant
 - Pinpointed differences in ratings and amenities by cuisine type and restaurant class
   
 This project enabled data-driven decision making by unlocking insights around Zomato's restaurant ecosystem. The observations and trends identified could help Zomato improve platform features, target marketing efforts, identify expansion opportunities, and better meet the needs of restaurants and diners.
+
+
+
+![Dashboard](https://github.com/sandya43/Zomato-analysis/assets/54944009/7dfd2759-b5ef-4e2b-9d62-ee080c04ab90)
