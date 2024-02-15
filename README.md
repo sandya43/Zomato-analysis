@@ -16,6 +16,7 @@ The goal of the Zomato Analysis project was to gain insights into the restaurant
 
 - Imported the dataset of 9,500 restaurants across 10 countries into MS Excel  for analysis
 - Cleaned and transformed data to make it analysis-ready
+- Developed SQL skills querying large datasets from production database and extracting relevant data needed for analysis
 - Developed questions and metrics to analyze: restaurant counts, growth over time, price ranges, ratings, amenities
 - Built interactive Power BI dashboards with visualizations to uncover and showcase insights
 
