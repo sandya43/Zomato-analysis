@@ -6,15 +6,15 @@ The goal of the Zomato Analysis project was to gain insights into the restaurant
 
 ### Tools
 
-- MS Excel - Data Cleaning
-- MySql   - data analysis
-- PowerBi - creating reports
+- MS Excel 
+- MySql   
+- PowerBi 
 
 
 
 ### Approach
 
-- Imported the dataset of 9,500 restaurants across 10 countries into Power BI for analysis
+- Imported the dataset of 9,500 restaurants across 10 countries into MS Excel  for analysis
 - Cleaned and transformed data to make it analysis-ready
 - Developed questions and metrics to analyze: restaurant counts, growth over time, price ranges, ratings, amenities
 - Built interactive Power BI dashboards with visualizations to uncover and showcase insights
